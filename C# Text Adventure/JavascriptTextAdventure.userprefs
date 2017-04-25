@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TextController.cs">
+    <Files>
+      <File FileName="Assets\TextController.cs" Line="23" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="14" column="6" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="12" column="11" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="12" column="4" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="2" column="8" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="13" column="5" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="12" column="6" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="10" column="5" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="10" column="4" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="8" column="9" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="13" column="3" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="9" column="10" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="14" column="4" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="10" column="26" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="10" column="20" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\NewBehaviourScript.cs" line="10" column="12" />
+      <RunToCursorBreakpoint file="C:\Users\samco\Desktop\JavascriptTextAdventure\Assets\TextController.cs" line="1" column="10" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
